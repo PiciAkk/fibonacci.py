@@ -18,5 +18,5 @@ def printFibonacci(howMany):
 def main():
     printFibonacci(input())
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
