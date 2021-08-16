@@ -12,4 +12,4 @@ Python-based Fibonacci-number implementation that uses RAM
 python3 main.py num
 ```
 
-*Note: Instead of num,you can specify how many fibonacci numbers you want to display*
+*Note: Instead of num, you can specify how many fibonacci numbers you want to display*
