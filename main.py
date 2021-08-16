@@ -12,7 +12,7 @@ def fibonacci(num):
         return currentCalculation
     
 def printFibonacci(howMany):
-    for i in range(howMany):
+    for i in range(howMany+2):
         print(fibonacci(i))
 
 def main():
