@@ -16,7 +16,7 @@ def printFibonacci(howMany):
         print(fibonacci(i))
 
 def main():
-    printFibonacci(input())
+    printFibonacci(int(input()))
 
 if __name__ == "__main__":
     main()
