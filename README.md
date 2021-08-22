@@ -5,6 +5,13 @@ Python-based Fibonacci-number implementation that uses RAM
 
 ## Requirements:
 - python3
+- git
+
+## Clone the repository: 
+
+```bash
+git clone https://github.com/piciakk/fibonacci.py
+```
 
 ## Start the app
 
