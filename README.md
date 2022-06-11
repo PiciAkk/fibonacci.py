@@ -20,4 +20,4 @@ python3 main.py
 num
 ```
 
-*Note: Instead of num, you can specify how many fibonacci numbers you want to display (0 will be displayed, but it does not count)*
+*Note: Instead of num, you can specify how many Fibonacci-numbers you want to display (0 will be displayed, but it does not count)*
